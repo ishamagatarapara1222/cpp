@@ -1,4 +1,4 @@
-2# C++
+# C++
 
 ## Task Outputs
 
